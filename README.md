@@ -1,11 +1,8 @@
 # Student Bio Data Collection Web App
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ## 🚀 Overview
@@ -70,7 +67,7 @@ cd student-biodata-app
 ### 3. Launch the App
 
 * Place the project folder in your web server's root (e.g., `htdocs` in XAMPP).
-* Visit `http://localhost/student-biodata-app/HTML/login.php` in your browser.
+* Visit `http://localhost/student-biodata-app/HTML/signup_html.php` in your browser.
 
 ## 🗓️ How to Use
 
